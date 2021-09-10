@@ -1,1 +1,3 @@
 Zmiana w pliku raz dwa trzy !!!
+
+dodanie nowej funkcjonalnosci
